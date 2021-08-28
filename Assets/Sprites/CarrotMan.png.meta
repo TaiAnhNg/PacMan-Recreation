@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 7471e911b3d25994b8ef9e2cd6424c0e
+guid: 7d016a7adfc2cb44f8c21b124fd90ceb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7743834760250118198
-    second: Carrot(PacMan)_0
+      213: -6525127203531310954
+    second: CarrotMan_0
   - first:
-      213: -7545792389447079257
-    second: Carrot(PacMan)_1
+      213: -5834776387383758185
+    second: CarrotMan_1
   - first:
-      213: -6345741181834655418
-    second: Carrot(PacMan)_2
+      213: 2356610150133512746
+    second: CarrotMan_2
   - first:
-      213: -2744078052319845142
-    second: Carrot(PacMan)_3
+      213: -6579927400359241984
+    second: CarrotMan_3
+  - first:
+      213: -3758608390940331468
+    second: CarrotMan_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Carrot(PacMan)_0
+      name: CarrotMan_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 148
-        width: 60
-        height: 92
+        x: 8
+        y: 69
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: acf28fb605f588490800000000000000
-      internalID: -7743834760250118198
+      spriteID: 698374741671275a0800000000000000
+      internalID: -6525127203531310954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carrot(PacMan)_1
+      name: CarrotMan_1
       rect:
         serializedVersion: 2
-        x: 160
-        y: 148
-        width: 60
-        height: 92
+        x: 40
+        y: 69
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7aa29261dc5f74790800000000000000
-      internalID: -7545792389447079257
+      spriteID: 79277262ac5b60fa0800000000000000
+      internalID: -5834776387383758185
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carrot(PacMan)_2
+      name: CarrotMan_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 20
-        width: 60
-        height: 92
+        x: 8
+        y: 37
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6498d2c24066fe7a0800000000000000
-      internalID: -6345741181834655418
+      spriteID: a2ab9c8127c54b020800000000000000
+      internalID: 2356610150133512746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carrot(PacMan)_3
+      name: CarrotMan_3
       rect:
         serializedVersion: 2
-        x: 160
-        y: 20
-        width: 60
-        height: 92
+        x: 40
+        y: 37
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +195,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae4a787dc831be9d0800000000000000
-      internalID: -2744078052319845142
+      spriteID: 0075abd24e66fa4a0800000000000000
+      internalID: -6579927400359241984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotMan_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432f238159db6dbc0800000000000000
+      internalID: -3758608390940331468
       vertices: []
       indices: 
       edges: []

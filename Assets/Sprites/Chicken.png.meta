@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: 88fe38c6128ea8541ac722cdf696f7e2
+guid: 6e4fa5e5d7da92f4c884839c841af520
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4937148749325523600
-    second: Carrot-Dead_0
+      213: 5336855417275088078
+    second: Chicken_0
   - first:
-      213: -1806213910407735432
-    second: Carrot-Dead_1
+      213: -1433109330887674863
+    second: Chicken_1
+  - first:
+      213: -1642514149361250337
+    second: Chicken_2
+  - first:
+      213: -6988750562667468047
+    second: Chicken_3
+  - first:
+      213: 4026655516392716245
+    second: Chicken_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -109,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Carrot-Dead_0
+      name: Chicken_0
       rect:
         serializedVersion: 2
-        x: 32
-        y: 148
-        width: 60
-        height: 92
+        x: 7
+        y: 35
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -123,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09adfce11a6448440800000000000000
-      internalID: 4937148749325523600
+      spriteID: eccfc44e9b1501a40800000000000000
+      internalID: 5336855417275088078
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Carrot-Dead_1
+      name: Chicken_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 92
-        height: 60
+        x: 39
+        y: 35
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,8 +153,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87717c9a40a0fe6e0800000000000000
-      internalID: -1806213910407735432
+      spriteID: 114742018a29c1ce0800000000000000
+      internalID: -1433109330887674863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf05c4651e9439e0800000000000000
+      internalID: -1642514149361250337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fae4682468f20f90800000000000000
+      internalID: -6988750562667468047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chicken_4
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77477abdd81e730800000000000000
+      internalID: 4026655516392716245
       vertices: []
       indices: 
       edges: []
