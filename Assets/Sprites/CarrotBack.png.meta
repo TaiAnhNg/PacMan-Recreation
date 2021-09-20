@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: 370c21da1f50b5b46a82a74fd47771f8
+guid: 92a5ebeabdd2f9e49bbf4c4e40a1518d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6373487993795467059
-    second: WeakChicken_0
+      213: -4108098250722838705
+    second: CarrotBack_0
   - first:
-      213: -4721752341567326936
-    second: WeakChicken_1
+      213: 4347947818486172157
+    second: CarrotBack_1
   - first:
-      213: -5599463728759402012
-    second: WeakChicken_2
+      213: 5879572553747756105
+    second: CarrotBack_2
   - first:
-      213: 4037350119996492033
-    second: WeakChicken_3
-  - first:
-      213: 6511760931765406292
-    second: WeakChicken_4
+      213: -2710023558658369614
+    second: CarrotBack_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -61,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,76 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WeakChicken_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 36
-        width: 15
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dc8aa951072dc87a0800000000000000
-      internalID: -6373487993795467059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WeakChicken_1
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 36
-        width: 17
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 825b2832347f87eb0800000000000000
-      internalID: -4721752341567326936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WeakChicken_2
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 36
-        width: 16
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e19c9ae765ba42b0800000000000000
-      internalID: -5599463728759402012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WeakChicken_3
+      name: CarrotBack_0
       rect:
         serializedVersion: 2
         x: 8
-        y: 4
-        width: 16
-        height: 25
+        y: 37
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +129,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10985481b8c870830800000000000000
-      internalID: 4037350119996492033
+      spriteID: f47f247186a1df6c0800000000000000
+      internalID: -4108098250722838705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WeakChicken_4
+      name: CarrotBack_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 4
+        x: 40
+        y: 37
         width: 15
-        height: 25
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,8 +150,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45ac420111c6e5a50800000000000000
-      internalID: 6511760931765406292
+      spriteID: df98dc62183075c30800000000000000
+      internalID: 4347947818486172157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotBack_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94475491610789150800000000000000
+      internalID: 5879572553747756105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotBack_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75a358eef046ad0800000000000000
+      internalID: -2710023558658369614
       vertices: []
       indices: 
       edges: []

@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: e98b040f44d78d64ea658fdf28a54d5c
+guid: 50130a0975a25774c8e599eead85581f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7109346972761907323
-    second: CarrotDead_0
+      213: -2280308961299317878
+    second: Scared_A_0
   - first:
-      213: 1794846877718981594
-    second: CarrotDead_1
+      213: 1479308062784478722
+    second: Scared_A_1
+  - first:
+      213: 5038314001750849524
+    second: Scared_A_2
+  - first:
+      213: 5922703151689091830
+    second: Scared_A_3
+  - first:
+      213: 2856396405197529247
+    second: Scared_A_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -109,33 +118,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CarrotDead_0
+      name: Scared_A_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 5
-        width: 15
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b70e870a76979a260800000000000000
-      internalID: 7109346972761907323
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CarrotDead_1
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 8
-        width: 23
+        x: 9
+        y: 36
+        width: 16
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -144,8 +132,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adba8acc9b398e810800000000000000
-      internalID: 1794846877718981594
+      spriteID: a8b3d9fc417ba50e0800000000000000
+      internalID: -2280308961299317878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_A_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed3ab68de878410800000000000000
+      internalID: 1479308062784478722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_A_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77c35f3efabe540800000000000000
+      internalID: 5038314001750849524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_A_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fac38af22ba13250800000000000000
+      internalID: 5922703151689091830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scared_A_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90608d8565f3a720800000000000000
+      internalID: 2856396405197529247
       vertices: []
       indices: 
       edges: []

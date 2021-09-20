@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: 7d016a7adfc2cb44f8c21b124fd90ceb
+guid: 46aa9403305ca0948b5d79462c8c7fe0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6525127203531310954
-    second: CarrotMan_0
+      213: 873892380458664499
+    second: Chicken_Back_0
   - first:
-      213: -5834776387383758185
-    second: CarrotMan_1
+      213: 5862837339538452768
+    second: Chicken_Back_1
   - first:
-      213: 2356610150133512746
-    second: CarrotMan_2
+      213: 3871670957789835008
+    second: Chicken_Back_2
   - first:
-      213: -6579927400359241984
-    second: CarrotMan_3
-  - first:
-      213: -3758608390940331468
-    second: CarrotMan_4
+      213: -8463538168182163129
+    second: Chicken_Back_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -61,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -118,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CarrotMan_0
+      name: Chicken_Back_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 69
-        width: 15
-        height: 23
+        x: 7
+        y: 35
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +129,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 698374741671275a0800000000000000
-      internalID: -6525127203531310954
+      spriteID: 332c82d6d70b02c00800000000000000
+      internalID: 873892380458664499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CarrotMan_1
+      name: Chicken_Back_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 69
-        width: 15
-        height: 22
+        x: 39
+        y: 35
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79277262ac5b60fa0800000000000000
-      internalID: -5834776387383758185
+      spriteID: 021f5176f7bfc5150800000000000000
+      internalID: 5862837339538452768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CarrotMan_2
+      name: Chicken_Back_2
       rect:
         serializedVersion: 2
-        x: 8
-        y: 37
-        width: 15
-        height: 22
+        x: 7
+        y: 3
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2ab9c8127c54b020800000000000000
-      internalID: 2356610150133512746
+      spriteID: 00f624e1930fab530800000000000000
+      internalID: 3871670957789835008
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CarrotMan_3
+      name: Chicken_Back_3
       rect:
         serializedVersion: 2
-        x: 40
-        y: 37
-        width: 15
-        height: 23
+        x: 39
+        y: 3
+        width: 20
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,29 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0075abd24e66fa4a0800000000000000
-      internalID: -6579927400359241984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: CarrotMan_4
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 5
-        width: 15
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 432f238159db6dbc0800000000000000
-      internalID: -3758608390940331468
+      spriteID: 749ba86b0e87b8a80800000000000000
+      internalID: -8463538168182163129
       vertices: []
       indices: 
       edges: []

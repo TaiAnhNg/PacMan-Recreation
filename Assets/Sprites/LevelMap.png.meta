@@ -1,13 +1,22 @@
 fileFormatVersion: 2
-guid: e98b040f44d78d64ea658fdf28a54d5c
+guid: cbd7c301727270e40bfae1dfa7a56f73
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7109346972761907323
-    second: CarrotDead_0
+      213: 2619924084692564446
+    second: OutsideCorner
   - first:
-      213: 1794846877718981594
-    second: CarrotDead_1
+      213: 9132496146301703526
+    second: OutsideWall
+  - first:
+      213: 1500746342383493511
+    second: TJunction
+  - first:
+      213: 1892089882571277892
+    second: InsideWall
+  - first:
+      213: 6491012817990144359
+    second: InsideCorner
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -38,7 +47,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -109,43 +118,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CarrotDead_0
+      name: OutsideCorner
       rect:
         serializedVersion: 2
-        x: 8
-        y: 5
-        width: 15
-        height: 23
+        x: 0
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b70e870a76979a260800000000000000
-      internalID: 7109346972761907323
+      spriteID: ed93796f217db5420800000000000000
+      internalID: 2619924084692564446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CarrotDead_1
+      name: OutsideWall
       rect:
         serializedVersion: 2
-        x: 36
-        y: 8
-        width: 23
-        height: 15
+        x: 16
+        y: 80
+        width: 16
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adba8acc9b398e810800000000000000
-      internalID: 1794846877718981594
+      spriteID: 665dfe8ebd42dbe70800000000000000
+      internalID: 9132496146301703526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TJunction
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812cbbd8d8b3d410800000000000000
+      internalID: 1500746342383493511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsideWall
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44685c539bd024a10800000000000000
+      internalID: 1892089882571277892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InsideCorner
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7615fc064c5b41a50800000000000000
+      internalID: 6491012817990144359
       vertices: []
       indices: 
       edges: []

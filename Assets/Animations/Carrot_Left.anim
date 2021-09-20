@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Carrot_Dead
+  m_Name: Carrot_Left
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,9 +20,15 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 7109346972761907323, guid: e98b040f44d78d64ea658fdf28a54d5c, type: 3}
+      value: {fileID: -2305638996262336573, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - time: 0.1
+      value: {fileID: -7602680241772956172, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - time: 0.2
+      value: {fileID: -750480245906686331, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - time: 0.3
+      value: {fileID: 7829046869606264476, guid: c430dc49ed96d86459fb851d38800695, type: 3}
     - time: 0.4
-      value: {fileID: 1794846877718981594, guid: e98b040f44d78d64ea658fdf28a54d5c, type: 3}
+      value: {fileID: 1829796533343623903, guid: c430dc49ed96d86459fb851d38800695, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -42,8 +48,11 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 7109346972761907323, guid: e98b040f44d78d64ea658fdf28a54d5c, type: 3}
-    - {fileID: 1794846877718981594, guid: e98b040f44d78d64ea658fdf28a54d5c, type: 3}
+    - {fileID: -2305638996262336573, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - {fileID: -7602680241772956172, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - {fileID: -750480245906686331, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - {fileID: 7829046869606264476, guid: c430dc49ed96d86459fb851d38800695, type: 3}
+    - {fileID: 1829796533343623903, guid: c430dc49ed96d86459fb851d38800695, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
