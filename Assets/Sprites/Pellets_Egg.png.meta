@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: f60a4c967081c834790606c725c64534
+guid: 846bd047c011ea840872d49391442b77
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 3202480010067705465
-    second: Scared_Face_0
-  - first:
-      213: -7688539549927899653
-    second: Scared_Face_1
-  - first:
-      213: -8318447912430773147
-    second: Scared_Face_2
-  - first:
-      213: -803556663996406074
-    second: Scared_Face_3
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -53,12 +41,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,91 +101,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: Scared_Face_0
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 36
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 97eff580a9e717c20800000000000000
-      internalID: 3202480010067705465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_Face_1
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 36
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfd7105d302dc4590800000000000000
-      internalID: -7688539549927899653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_Face_2
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 4
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 56c59f852bfee8c80800000000000000
-      internalID: -8318447912430773147
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Scared_Face_3
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 4
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6c6a895b87139d4f0800000000000000
-      internalID: -803556663996406074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []

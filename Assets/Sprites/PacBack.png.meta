@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: f60a4c967081c834790606c725c64534
+guid: 92a5ebeabdd2f9e49bbf4c4e40a1518d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3202480010067705465
-    second: Scared_Face_0
+      213: -4108098250722838705
+    second: CarrotBack_0
   - first:
-      213: -7688539549927899653
-    second: Scared_Face_1
+      213: 4347947818486172157
+    second: CarrotBack_1
   - first:
-      213: -8318447912430773147
-    second: Scared_Face_2
+      213: 5879572553747756105
+    second: CarrotBack_2
   - first:
-      213: -803556663996406074
-    second: Scared_Face_3
+      213: -2710023558658369614
+    second: CarrotBack_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Scared_Face_0
+      name: CarrotBack_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 36
-        width: 16
-        height: 15
+        x: 8
+        y: 37
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,20 +129,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97eff580a9e717c20800000000000000
-      internalID: 3202480010067705465
+      spriteID: f47f247186a1df6c0800000000000000
+      internalID: -4108098250722838705
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_1
+      name: CarrotBack_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 36
-        width: 16
-        height: 15
+        x: 40
+        y: 37
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd7105d302dc4590800000000000000
-      internalID: -7688539549927899653
+      spriteID: df98dc62183075c30800000000000000
+      internalID: 4347947818486172157
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_2
+      name: CarrotBack_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 4
-        width: 16
-        height: 15
+        x: 8
+        y: 5
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +171,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c59f852bfee8c80800000000000000
-      internalID: -8318447912430773147
+      spriteID: 94475491610789150800000000000000
+      internalID: 5879572553747756105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_3
+      name: CarrotBack_3
       rect:
         serializedVersion: 2
-        x: 41
-        y: 4
-        width: 16
-        height: 15
+        x: 40
+        y: 5
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +192,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c6a895b87139d4f0800000000000000
-      internalID: -803556663996406074
+      spriteID: 2b75a358eef046ad0800000000000000
+      internalID: -2710023558658369614
       vertices: []
       indices: 
       edges: []

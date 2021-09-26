@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: f60a4c967081c834790606c725c64534
+guid: c430dc49ed96d86459fb851d38800695
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3202480010067705465
-    second: Scared_Face_0
+      213: -2305638996262336573
+    second: CarrotLeft_0
   - first:
-      213: -7688539549927899653
-    second: Scared_Face_1
+      213: -7602680241772956172
+    second: CarrotLeft_1
   - first:
-      213: -8318447912430773147
-    second: Scared_Face_2
+      213: -750480245906686331
+    second: CarrotLeft_2
   - first:
-      213: -803556663996406074
-    second: Scared_Face_3
+      213: 7829046869606264476
+    second: CarrotLeft_3
+  - first:
+      213: 1829796533343623903
+    second: CarrotLeft_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Scared_Face_0
+      name: CarrotLeft_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 36
-        width: 16
-        height: 15
+        x: 8
+        y: 37
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97eff580a9e717c20800000000000000
-      internalID: 3202480010067705465
+      spriteID: 3c7ce777c89b000e0800000000000000
+      internalID: -2305638996262336573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_1
+      name: CarrotLeft_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 36
-        width: 16
-        height: 15
+        x: 40
+        y: 37
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd7105d302dc4590800000000000000
-      internalID: -7688539549927899653
+      spriteID: 4f5fd30d99add7690800000000000000
+      internalID: -7602680241772956172
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_2
+      name: CarrotLeft_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 4
-        width: 16
-        height: 15
+        x: 72
+        y: 37
+        width: 15
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c59f852bfee8c80800000000000000
-      internalID: -8318447912430773147
+      spriteID: 58eb8cb4132c595f0800000000000000
+      internalID: -750480245906686331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_3
+      name: CarrotLeft_3
       rect:
         serializedVersion: 2
-        x: 41
-        y: 4
-        width: 16
-        height: 15
+        x: 8
+        y: 5
+        width: 15
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +195,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c6a895b87139d4f0800000000000000
-      internalID: -803556663996406074
+      spriteID: c9ee3c8d5ac56ac60800000000000000
+      internalID: 7829046869606264476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrotLeft_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda103d904eb46910800000000000000
+      internalID: 1829796533343623903
       vertices: []
       indices: 
       edges: []

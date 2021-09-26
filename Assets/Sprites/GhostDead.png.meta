@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: f60a4c967081c834790606c725c64534
+guid: 0a2d416959656d840a143b8b1d4fa4fd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3202480010067705465
-    second: Scared_Face_0
+      213: -7210895995556407155
+    second: GhostDead_0
   - first:
-      213: -7688539549927899653
-    second: Scared_Face_1
+      213: -99366210070824640
+    second: GhostDead_1
   - first:
-      213: -8318447912430773147
-    second: Scared_Face_2
+      213: 9090183511347394545
+    second: GhostDead_2
   - first:
-      213: -803556663996406074
-    second: Scared_Face_3
+      213: -4970297551052591390
+    second: GhostDead_3
+  - first:
+      213: -1042404315874789283
+    second: GhostDead_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -115,13 +118,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Scared_Face_0
+      name: GhostDead_0
       rect:
         serializedVersion: 2
         x: 9
         y: 36
-        width: 16
-        height: 15
+        width: 15
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -129,20 +132,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97eff580a9e717c20800000000000000
-      internalID: 3202480010067705465
+      spriteID: d88d2980c40cdeb90800000000000000
+      internalID: -7210895995556407155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_1
+      name: GhostDead_1
       rect:
         serializedVersion: 2
-        x: 41
+        x: 40
+        y: 36
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0493d0a55fafe9ef0800000000000000
+      internalID: -99366210070824640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostDead_2
+      rect:
+        serializedVersion: 2
+        x: 72
         y: 36
         width: 16
-        height: 15
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -150,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfd7105d302dc4590800000000000000
-      internalID: -7688539549927899653
+      spriteID: 1f779f0edb1d62e70800000000000000
+      internalID: 9090183511347394545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_2
+      name: GhostDead_3
       rect:
         serializedVersion: 2
-        x: 9
+        x: 8
         y: 4
         width: 16
-        height: 15
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56c59f852bfee8c80800000000000000
-      internalID: -8318447912430773147
+      spriteID: 2ee248906b4f50bb0800000000000000
+      internalID: -4970297551052591390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Scared_Face_3
+      name: GhostDead_4
       rect:
         serializedVersion: 2
         x: 41
         y: 4
-        width: 16
-        height: 15
+        width: 15
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -192,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c6a895b87139d4f0800000000000000
-      internalID: -803556663996406074
+      spriteID: d58f2ff2cc2a881f0800000000000000
+      internalID: -1042404315874789283
       vertices: []
       indices: 
       edges: []
